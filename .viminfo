@@ -8,6 +8,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+:wq!\
+:wq
+:w!
 :q
 
 # Search String History (newest to oldest):
@@ -21,9 +25,27 @@
 # 寄存器:
 
 # 文件标记:
-'0  101  0  ~/.lesshst
+'0  3  0  ~/.gitignore
+'1  101  0  ~/.lesshst
 
 # 跳转列表 (从新到旧):
+-'  3  0  ~/.gitignore
+-'  1  0  ~/.gitignore
+-'  101  0  ~/.lesshst
+-'  6  0  ~/.lesshst
+-'  97  0  ~/.lesshst
+-'  16  0  ~/.lesshst
+-'  1  0  ~/.lesshst
+-'  101  0  ~/.lesshst
+-'  6  0  ~/.lesshst
+-'  97  0  ~/.lesshst
+-'  16  0  ~/.lesshst
+-'  1  0  ~/.lesshst
+-'  101  0  ~/.lesshst
+-'  6  0  ~/.lesshst
+-'  97  0  ~/.lesshst
+-'  16  0  ~/.lesshst
+-'  1  0  ~/.lesshst
 -'  101  0  ~/.lesshst
 -'  6  0  ~/.lesshst
 -'  97  0  ~/.lesshst
@@ -31,6 +53,12 @@
 -'  1  0  ~/.lesshst
 
 # 文件内的标记历史记录 (从新到旧):
+
+> ~/.gitignore
+	"	3	0
+	^	2	7
+	.	2	6
+	+	2	6
 
 > ~/.lesshst
 	"	101	0
